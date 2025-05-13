@@ -16,7 +16,7 @@ public class TaskTracker {
 
         this.taskId = taskId;
         this.taskDescription = taskDescription;
-        this.status =status;
+        this.status = status;
         this.taskDateCreated = taskDateCreated;
         this.taskUpdatedDate = taskUpdatedDate;
     }
